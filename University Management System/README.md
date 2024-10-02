@@ -115,20 +115,3 @@ Enter the username and password that you inserted into the login table earlier.
 
 ✨ **Enjoy managing your university system!** ✨
 
-
-## Screenshots
-
-![Login Page]("C:\Users\Niranjan\OneDrive\University Management System\Screenshots\About.png")
-
-![Fees Payment Page]("C:\Users\Niranjan\OneDrive\University Management System\Screenshots\About.png")
-
-![About Page]("C:\Users\Niranjan\OneDrive\University Management System\Screenshots\About.png")
-
-![MarkDetails Page]("C:\Users\Niranjan\OneDrive\University Management System\Screenshots\About.png")
-
-![Menu Page]("C:\Users\Niranjan\OneDrive\University Management System\Screenshots\About.png")
-
-![StudentDetails Page]("C:\Users\Niranjan\OneDrive\University Management System\Screenshots\About.png")
-
-![StudentLeave Page]("C:\Users\Niranjan\OneDrive\University Management System\Screenshots\About.png")
-
